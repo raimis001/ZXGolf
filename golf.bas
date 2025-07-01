@@ -73,7 +73,7 @@ DIM ClubName$ as string
 DIM Ball as uByte
 DIM BallO as uByte
 
-'GOSUB LoadScreen
+GOSUB LoadScreen
 
 GOSUB Tittle
 
