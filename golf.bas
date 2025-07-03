@@ -56,10 +56,6 @@ NEXT i
 
 
 DIM Score as uByte = 0
-'LET ParTotal=0
-
-'DIM P(9) as uByte
-'DIM S(9)
 DIM CD as uByte= 0
 
 DIM Shot as uByte
